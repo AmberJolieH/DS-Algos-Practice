@@ -1,17 +1,20 @@
-# Data Structures and Algorithm Practice
+# Data Structures and Algorithms Practice
 
-## 1. Introduction
+## 1. Data Structures Introduction
 
 ## 2. What Are Data Structures? 
-## 3. 
-## 4. 
-## 5.
-## 6. 
-## 7. 
-## 8. 
-## 9. 
-## 10. 
-## 11.
-## 12.
-## 13. 
+## 3. Complexity Analysis
+## 4. Memory
+## 5. Big O Notation
+## 6. Logarithm
+## 7. Arrays
+## 8. Linked Lists
+## 9. Hash Tables
+## 10. Stacks And Queues
+## 11. Strings
+## 12. Graphs
+## 13. Trees
 
+----
+
+## 1. Algorthms Introduction
