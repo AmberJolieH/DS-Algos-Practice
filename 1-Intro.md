@@ -5,7 +5,7 @@ why Data Structures are important:
 - test if engineer is a good problem solver
 
 
-what you need:
+What you need:
     - foundation of coding 
     - foundation of Data structures 
 
